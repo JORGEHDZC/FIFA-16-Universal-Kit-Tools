@@ -24,8 +24,8 @@ KitPacks for Liga MX teams will be available here.
 ---
 
 ## 🆕 Available KitPacks
-Club America.
-Atlas FC.
-Atlante FC.
+Club America: https://github.com/JORGEHDZC/FIFA-16-Universal-Kit-Tools/releases/download/v1.1.0-dev-preview.2/Club_America_2026_2027_v1.f16kitpack
+Atlas FC: https://github.com/JORGEHDZC/FIFA-16-Universal-Kit-Tools/releases/download/v1.1.0-dev-preview.2/FC_Atlas_2026_2027_20260911-190814.f16kitpack
+Atlante FC: https://github.com/JORGEHDZC/FIFA-16-Universal-Kit-Tools/releases/download/v1.1.0-dev-preview.2/FC_Atlante_2026_2027_20260915-021822.f16kitpack
 
 More KitPacks coming soon.
