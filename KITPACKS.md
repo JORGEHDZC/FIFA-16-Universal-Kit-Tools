@@ -24,8 +24,8 @@ KitPacks for Liga MX teams will be available here.
 ---
 
 ## 🆕 Available KitPacks
-Club America
-Atlas FC
-Atlante FC
+Club America.
+Atlas FC.
+Atlante FC.
 
 More KitPacks coming soon.
